@@ -1,1 +1,1 @@
--Excecício de criação de um cronometro em javascript
+-Exercício de criação de um cronometro em Java script, HTML e CSS.
